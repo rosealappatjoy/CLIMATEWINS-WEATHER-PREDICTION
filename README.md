@@ -10,5 +10,6 @@ This project is a continuation of the project CLIMATEWINS.Climate Wins wants to 
    on current trends.
 -  Determining the safest places for people to live in Europe within the next 25 to 50 years
 ##  Date set
-  This data is collected by the European Climate Assessment & Data Set project
-  Data set(https://coach-courses-us.s3.amazonaws.com/public/courses/da-spec-ml/Scripts/A2/DATASET%20weather_prediction_dataset_processed.csv)
+  The data set(https://coach-courses-us.s3.amazonaws.com/public/courses/da-spec-ml/Scripts/A2/DATASET%20weather_prediction_dataset_processed.csv) is collected by the European 
+  Climate Assessment & Data Set project
+
